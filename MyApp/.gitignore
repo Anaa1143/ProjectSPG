@@ -1,0 +1,22 @@
+# Visual Studio user files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleasePublic/
+x64/
+x86/
+build/
+bld/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+
+.vs/
+packages/
